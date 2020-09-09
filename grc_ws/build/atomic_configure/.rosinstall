@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/arvind/ROS-tutorial/grc_ws/devel/setup.sh

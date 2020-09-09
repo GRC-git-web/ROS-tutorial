@@ -1,0 +1,2 @@
+grc_tutorial
+-DCATKIN_DEVEL_PREFIX=/home/arvind/ROS-tutorial/grc_ws/devel -DCMAKE_INSTALL_PREFIX=/home/arvind/ROS-tutorial/grc_ws/install -G Unix Makefiles

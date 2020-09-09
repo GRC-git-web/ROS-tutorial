@@ -1,0 +1,6 @@
+#open up .bash_profile for editing
+nano ~/.bash_profile
+#add this command to the end of .bash_profile
+alias sublime="open -a /Applications/Sublime\ Text.app"
+#then run this command to refresh the .bash_profile with this new command
+source ~/.bash_profile
