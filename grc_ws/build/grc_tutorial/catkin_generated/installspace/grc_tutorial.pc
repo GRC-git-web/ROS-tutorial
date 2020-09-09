@@ -1,8 +1,0 @@
-prefix=/home/arvind/ROS-tutorial/grc_ws/install
-
-Name: grc_tutorial
-Description: Description of grc_tutorial
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: 
