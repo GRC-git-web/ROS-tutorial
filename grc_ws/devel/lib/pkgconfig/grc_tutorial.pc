@@ -1,0 +1,8 @@
+prefix=/home/arvind/ROS-tutorial/grc_ws/devel
+
+Name: grc_tutorial
+Description: Description of grc_tutorial
+Version: 0.0.0
+Cflags: -I/home/arvind/ROS-tutorial/grc_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
