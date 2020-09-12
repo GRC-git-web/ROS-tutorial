@@ -1,2 +1,2 @@
-set(grc_tutorial_MESSAGE_FILES "msg/Person.msg")
-set(grc_tutorial_SERVICE_FILES "")
+set(grc_tutorial_MESSAGE_FILES "msg/Person.msg;msg/FibonacciAction.msg;msg/FibonacciActionGoal.msg;msg/FibonacciActionResult.msg;msg/FibonacciActionFeedback.msg;msg/FibonacciGoal.msg;msg/FibonacciResult.msg;msg/FibonacciFeedback.msg;msg/WashTheDishesAction.msg;msg/WashTheDishesActionGoal.msg;msg/WashTheDishesActionResult.msg;msg/WashTheDishesActionFeedback.msg;msg/WashTheDishesGoal.msg;msg/WashTheDishesResult.msg;msg/WashTheDishesFeedback.msg")
+set(grc_tutorial_SERVICE_FILES "srv/SrvTutorial.srv")

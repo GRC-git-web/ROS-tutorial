@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="grc_tutorial" type="publisher.py" name="topic_publisher" output="screen">
+	</node>
+</launch>

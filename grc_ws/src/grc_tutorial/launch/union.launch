@@ -1,0 +1,12 @@
+<launch>
+<group ns="ns1">
+    <node pkg="grc_tutorial" type="publisher.py" name="topic_publisher" output="screen"/>
+    <node pkg="grc_tutorial" type="subscriber.py" name="topic_subscriber" output="screen"/>
+</group>
+<group ns="ns2">
+    <node pkg="grc_tutorial" type="publisher.py" name="topic_publisher" output="screen"/>
+    <node pkg="grc_tutorial" type="subscriber.py" name="topic_subscriber" output="screen"/>
+</group>
+
+
+</launch>
