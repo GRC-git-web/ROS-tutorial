@@ -9,7 +9,7 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
 )
 
-# Generate messages in the 'msg' folder
+# Generate messages in the 'msg' folders
  add_message_files(
    FILES
    Person.msg
